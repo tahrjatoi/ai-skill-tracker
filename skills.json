@@ -1,0 +1,46 @@
+{
+  "skills": [
+    {
+      "id": "rag",
+      "name": "RAG Systems",
+      "level": "intermediate",
+      "target": "advanced",
+      "notes": "Built personal RAG assistant. Need more experience with hybrid search and evaluation."
+    },
+    {
+      "id": "agents",
+      "name": "Multi-Agent Systems",
+      "level": "beginner",
+      "target": "intermediate",
+      "notes": "Studying LangGraph and CrewAI patterns."
+    },
+    {
+      "id": "finetuning",
+      "name": "Fine-tuning LLMs",
+      "level": "beginner",
+      "target": "intermediate",
+      "notes": "Plan to fine-tune a small model on personal writing style."
+    },
+    {
+      "id": "system-design",
+      "name": "System Design for AI",
+      "level": "intermediate",
+      "target": "advanced",
+      "notes": "Focus on latency, cost, and reliability of AI features."
+    },
+    {
+      "id": "prompting",
+      "name": "Prompt Engineering",
+      "level": "advanced",
+      "target": "expert",
+      "notes": "Strong practical experience. Working on evaluation frameworks."
+    },
+    {
+      "id": "python-ai",
+      "name": "Python for AI Engineering",
+      "level": "advanced",
+      "target": "expert",
+      "notes": "Solid. Improving packaging and production patterns."
+    }
+  ]
+}
